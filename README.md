@@ -15,7 +15,7 @@ A modern, desktop application built in Python 3 using Tkinter and Matplotlib for
 - **Key Functionality**:
   - **Dynamic Gantt Chart**: Embedded Matplotlib visualization showing execution timelines, preemptions, and CPU IDLE states.
   - **Metrics Computation**: Calculates Completion Time (CT), Turnaround Time (TAT = CT - AT), Waiting Time (WT = TAT - BT), and overall averages.
-  - **Algorithm Comparison**: "Run All & Compare" mode runs all four algorithms side-by-side using the exact same process dataset.
+  - **Algorithm Comparison**: "Run All & Compare" mode runs all four algorithms using the exact same process dataset.
   - **Robust Input Validation**: Prevents application crashes by catching empty fields, duplicate Process IDs, negative arrival times, zero/negative burst times, and invalid time quanta.
   - **Modern UI**: Polished Black and Beige dark-themed dashboard.
 
@@ -39,8 +39,3 @@ cpu_scheduling_simulator/
 └── gui/
     ├── __init__.py
     └── simulator_gui.py
-
-## Project Links
-
-- **GitHub Repository:** [View Repository](https://github.com/Ardra-Sobharaj/cpu-scheduling-algorithm-simulator)
-- **Download / Deployment:** [Download Simulator](https://github.com/Ardra-Sobharaj/cpu-scheduling-algorithm-simulator/releases/latest)
