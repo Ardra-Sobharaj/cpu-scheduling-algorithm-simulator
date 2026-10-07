@@ -39,3 +39,9 @@ cpu_scheduling_simulator/
 └── gui/
     ├── __init__.py
     └── simulator_gui.py
+```
+
+## Project Links
+
+- **GitHub Repository:** [View Repository](https://github.com/Ardra-Sobharaj/cpu-scheduling-algorithm-simulator)
+- **Download / Deployment:** [Download Simulator](https://github.com/Ardra-Sobharaj/cpu-scheduling-algorithm-simulator/releases/latest)
